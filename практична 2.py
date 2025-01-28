@@ -1,6 +1,6 @@
 a = 'Hello world!'
 name ='Anton'
-surname = 'Novac'
+surname = 'Novak'
 age = 16
 lst = [a, name, surname, age]
 lst1 = []
